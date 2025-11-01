@@ -7,4 +7,5 @@ Precision connecting rod model with fillets, bolt holes, and assembly dimensions
 *Files*
 - preview.png
 - Connecting-Rod.pdf (if available)
-- Fusion 360 link: https://a360.co/YOUR-CONNECTINGROD-LINK
+
+- Fusion 360 link: https://a360.co/4oUEqMS

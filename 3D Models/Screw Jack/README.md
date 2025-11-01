@@ -7,4 +7,5 @@ Detailed screw jack assembly with threading and base supports. Includes sectiona
 *Files*
 - preview.png
 - Screw-Jack.pdf (2D drawing)
-- Fusion 360 link: https://a360.co/YOUR-SCREWJACK-LINK
+
+- Fusion 360 link: https://a360.co/4nuEukz

@@ -9,4 +9,5 @@ This project shows a precision gib-and-cutter joint assembly with exploded view,
 *Files*
 - preview.png — screenshot
 - Gib-and-Cutter-Joint.pdf — (if available) 2D drawing
-- Fusion 360 public link: https://a360.co/YOUR-GIB-LINK
+
+- Fusion 360 public link: https://a360.co/3JzedU3

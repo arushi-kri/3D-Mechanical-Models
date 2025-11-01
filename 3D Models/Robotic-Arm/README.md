@@ -6,5 +6,6 @@
 Robotic arm links modeled in Fusion 360. Includes kinematic joint definitions and simulation demo (if available).  
 *Files*
 - preview.png
-- Fusion 360 link: https://a360.co/YOUR-ROBOARM-LINK
+- Fusion 360 link: https://a360.co/4hEDIAq
+
 - Optional: demo.mp4 showing motion / simulation

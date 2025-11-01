@@ -7,4 +7,5 @@ Pillow block assembly with mounting features and bearing seating. Shows assembly
 *Files*
 - preview.png
 - Pillow-Block.pdf (if available)
-- Fusion 360 link: https://a360.co/YOUR-PILLOWBLOCK-LINK
+
+- Fusion 360 link: https://a360.co/4fYEY0m
